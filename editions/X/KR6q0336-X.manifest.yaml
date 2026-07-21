@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0336_000-X.yaml, hash: 'sha256:aa2534fa3f389a81c6e1806acbba6bdc0a0758d17a0b11fe902ca60beefc657c'}
+  - {seq: 0, filename: KR6q0336_000-X.yaml, hash: 'sha256:e2125ca4681f7f815971f28b0473e0e8530d8661be66d19360d10475c882c612'}
   - {seq: 1, filename: KR6q0336_001-X.yaml, hash: 'sha256:378e292a8a9b4056fc6517389ec26a0a741de5b39750f8e1b3bdeec70d3e3e6d'}
   - {seq: 2, filename: KR6q0336_002-X.yaml, hash: 'sha256:29e75894bbb9742d2d82f10f8f4411488a1e212898ffd1f31d90e89e534edecc'}
   - {seq: 3, filename: KR6q0336_003-X.yaml, hash: 'sha256:7b174fdfa33e9114644ba54f23b9a7d85f6374bac38b59ee08422ca957eaaabb'}
@@ -30,7 +30,7 @@ assets:
   - {seq: 8, filename: KR6q0336_008-X.yaml, hash: 'sha256:894c459577f00f466f33f040b2e249dd858b4bf197c93a4ed50d2614b8242e36'}
   - {seq: 9, filename: KR6q0336_009-X.yaml, hash: 'sha256:2fecdc2f3e943573518ee953d28032c1b5655992a38e53310b3be03102eced78'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0336_000-X.markers.yaml, hash: 'sha256:dcc3cd7f18eb2dcf96f17dd85f526cab62121854541ebcd84697fd2ac3b1d5bd'}
+  - {seq: 0, role: markers, filename: assets/KR6q0336_000-X.markers.yaml, hash: 'sha256:9bbddfb3dd860610a266e3addf1fbf85e22cd5b5cf647749c960e20d5631d48f'}
   - {seq: 1, role: markers, filename: assets/KR6q0336_001-X.markers.yaml, hash: 'sha256:31ee6ebb512369bb9f7590a29769597b3332927a02a196eb00a8a1515060b772'}
   - {seq: 2, role: markers, filename: assets/KR6q0336_002-X.markers.yaml, hash: 'sha256:5d4468b5157e848e5b56d288b33e2975165d066c09c4f885e8b41695d9424845'}
   - {seq: 3, role: markers, filename: assets/KR6q0336_003-X.markers.yaml, hash: 'sha256:bf6fe5ca4056370435c092dd77f6670b0807409d97e7220761ba15576636f690'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0336_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1403-A 師子林天如和尚語錄敘
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0336_X_000-mulu-2
     span:
-    - front
+    - body
     - 389
     - 389
   label: No. 1403-B 天如禪師語錄序
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0336_X_000-mulu-3
     span:
-    - front
+    - body
     - 731
     - 731
   label: No. 1403-C 天如禪師別錄序
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0336_X_000-mulu-4
     span:
-    - front
+    - body
     - 1084
     - 1084
   label: No. 1403-D 師子林別錄序
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0336_X_000-mulu-5
     span:
-    - front
+    - body
     - 1403
     - 1403
   label: 師子林天如和尚語錄目錄
@@ -3411,4 +3411,4 @@ table_of_contents:
   label: No. 1403-E 師子林菩提正宗寺記(依石本錄出)
   type: mulu
   level: 1
-hash: sha256:b577d4d4c6f2eb3566e9cac7b19a7efb7f2cc12f7b8ae548cffb529d75a5db14
+hash: sha256:b85d0ac0e206e9e65b66cc46df6e97ba30a59373f3515228e959c1e3c2f537da
